@@ -1,8 +1,0 @@
-numpy>=1.24
-scipy>=1.11
-cma>=4.0
-optuna>=4.8
-torch
-coco-experiment
-cocopp
-scikit-learn>=1.3
